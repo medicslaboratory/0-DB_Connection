@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This is an example of connection credentials file -->
+
+<!-- *** THIS FILE SHOULD NOT BE ON GitHub *** -->
+<!-- *** THIS FILE SHOULD NOT BE ON GitHub *** -->
+<!-- *** THIS FILE SHOULD NOT BE ON GitHub *** -->
+
+<mysql>
+   <host>server_name_or_IP</host>
+   <db>database_name</db>      
+   <user>username</user>
+   <pass>password</pass>
+</mysql>
